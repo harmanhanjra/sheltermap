@@ -1,0 +1,11 @@
+{
+  "city": "berlin",
+  "records": [
+    {"name": "Berlin Emergency Shelter Mitte", "type": "emergency", "capacity": 120, "access": "wheelchair, interpreter", "contact": "mitte-shelter@berlin-example.org", "address": "Sample Str. 1, 10115 Berlin"},
+    {"name": "Emergency Shelter Neukoelln", "type": "emergency", "capacity": 80, "access": "wheelchair", "contact": "neukoelln-shelter@berlin-example.org", "address": "Beispiel Allee 12, 12043 Berlin"},
+    {"name": "Affordable Housing Registry Berlin", "type": "registry", "capacity": 500, "access": "visual, screen-reader, wheelchair", "contact": "registry@berlin-example.org", "address": "Muster Platz 3, 10555 Berlin"},
+    {"name": "Transitional Housing Kreuzberg", "type": "transitional", "capacity": 45, "access": "interpreter, step-free", "contact": "kreuzberg-housing@berlin-example.org", "address": "Test Weg 7, 10963 Berlin"},
+    {"name": "Subsidized Flats Lichtenberg", "type": "subsidized", "capacity": 210, "access": "screen-reader, wheelchair", "contact": "lichtenberg-flats@berlin-example.org", "address": "Demo Str. 20, 10365 Berlin"},
+    {"name": "Emergency Shelter Charlottenburg", "type": "emergency", "capacity": 60, "access": "step-free", "contact": "charlottenburg-shelter@berlin-example.org", "address": "Platz Str. 9, 10585 Berlin"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "city": "delhi",
+  "records": [
+    {"name": "Delhi Rain Basera Connaught Place", "type": "emergency", "capacity": 150, "access": "step-free", "contact": "cp-basera@delhi-example.org", "address": "Connaught Place, New Delhi"},
+    {"name": "Night Shelter Nizamuddin", "type": "emergency", "capacity": 90, "access": "wheelchair", "contact": "nizamuddin-shelter@delhi-example.org", "address": "Nizamuddin East, New Delhi"},
+    {"name": "DDA Affordable Housing Registry", "type": "registry", "capacity": 1200, "access": "visual, screen-reader", "contact": "dda-registry@delhi-example.org", "address": "Vikas Sadan, New Delhi"},
+    {"name": "Transitional Homes Rohini", "type": "transitional", "capacity": 70, "access": "wheelchair, interpreter", "contact": "rohini-homes@delhi-example.org", "address": "Rohini Sector 7, New Delhi"},
+    {"name": "Subsidized Housing Dwarka", "type": "subsidized", "capacity": 340, "access": "step-free, visual", "contact": "dwarka-housing@delhi-example.org", "address": "Dwarka Sector 10, New Delhi"}
+  ]
+}
